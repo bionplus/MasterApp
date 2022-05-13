@@ -23,6 +23,6 @@
             Grid.Row="1"
             Width="60"
             Height="20"
-            Content="cacamaca33" />
+            Content="cacamaca" />
     </Grid>
 </Window>
