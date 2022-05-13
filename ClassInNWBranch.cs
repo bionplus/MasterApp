@@ -8,5 +8,7 @@ namespace MasterApp
 {
     internal class ClassInNWBranch
     {
+
+        auto mm = null;
     }
 }
